@@ -1,0 +1,3 @@
+Worm was a game I made my sophomore year of high school. It was very similar to the game Snake. I completed it as a final project and just wanted to include some source code to show my beginnings with Java -- and my first experiences with code.
+
+The file PSKDTree was one given by one of my professors this past fall. He gave us skeleton code (function declarations but not definitions) and an api and we had to implement all of the functionality ourselves. I include this to give an example of my coding practices now, as well as demonstrate the fact that I've learned about many data structures and algorithms and even coded some myself.

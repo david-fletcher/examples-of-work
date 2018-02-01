@@ -1,0 +1,3 @@
+These are merely examples of my work. They were picked and chosen from among the many projects I've worked on in the past. You will not be able to compile or run these files alone as they are plucked out of their packages, so to speak. I merely included these so that you could see the diversity of my work and judge for yourself how well you believe that I code.
+
+If you'd like to see more or want to ask questions, please to not hesitate to reach out and ask at my email address.

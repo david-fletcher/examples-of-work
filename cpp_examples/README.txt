@@ -1,0 +1,1 @@
+These files show that I've dabbled in C++ in one class. While I have a somewhat working knowledge of this language, I'm much more confident in Java. We had to program our own lists using both a linked list model and an array model. Please note that ListArray.h is missing (I'm not sure what happened to it).
